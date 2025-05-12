@@ -9,4 +9,4 @@ Completely bypasses steam's filter with any regard for the target content. **USE
 
 **Installation**
 
-[Install Steam Filter skip](https://raw.githubusercontent.com/devovni/SteamFilterSkip/master/FilterSkip.js "Install script")
+[Install Steam Filter skip](https://github.com/devovni/SteamFilterSkip/raw/refs/heads/master/code.user.js "Install script")
